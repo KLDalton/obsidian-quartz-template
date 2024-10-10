@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "e29969ba31de2f8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc2b5784995eb861",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e97d00543ff7de0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🧠🥼🚧( ͡ຈ ͜ʖ ͡ຈ)Second_Brain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "907c2f5a7a07ecd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e2d905070a085e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3142812c8294364f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb5e457af2eec6b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"source_KLD/\" ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e37d3c5a9624ba37",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 394.5
+  },
+  "right": {
+    "id": "716dfd26903393b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e83477b75257791",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "825cada821575ba6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🧠🥼🚧( ͡ຈ ͜ʖ ͡ຈ)Second_Brain.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b3b81608d921a8d2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🧠🥼🚧( ͡ຈ ͜ʖ ͡ຈ)Second_Brain.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e16d7b52d8dcd76",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d2dddcca3f8ec4f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🧠🥼🚧( ͡ຈ ͜ʖ ͡ຈ)Second_Brain.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "fileorganizer2000:Fo2k Chat": false,
+      "fileorganizer2000:Fo2k Assistant View": false
+    }
+  },
+  "active": "6e97d00543ff7de0",
+  "lastOpenFiles": [
+    "_FileOrganizer2000/Templates/meeting_note.md",
+    "_FileOrganizer2000/Backups",
+    "_FileOrganizer2000/Templates",
+    "_FileOrganizer2000/Logs",
+    "_FileOrganizer2000/Processed/Attachments",
+    "_FileOrganizer2000/Processed",
+    "_FileOrganizer2000/Inbox",
+    "_FileOrganizer2000",
+    "source_KLD/P01 - Quick Switcher - Base Plug-in",
+    "source_KLD/P02 - New Graphic View - Base Plug-in",
+    "source_KLD/P03 - Create New Canvas - Base Plug-in",
+    "README.md",
+    "Vocabulary/Vocabulary.md",
+    "🧠🥼🚧( ͡ຈ ͜ʖ ͡ຈ)Second_Brain.md",
+    "Creative_Common_Images/Pasted image 20241007050149.png",
+    "Creative_Common_Images/Pasted image 20241007045915.png",
+    "Personal_Assets/Profile_Picture.png"
+  ]
+}
